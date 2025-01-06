@@ -1,6 +1,6 @@
 import React from "react";
 import { Image, StyleSheet, Text, View } from "react-native";
-import { Avatar, Card } from "react-native-paper";
+import { Card } from "react-native-paper";
 
 const Profile = ({ student }) => {
   return (
